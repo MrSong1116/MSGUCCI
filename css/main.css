@@ -1,0 +1,232 @@
+
+
+article{
+    padding: 15px;
+    background: white;
+}
+section{
+    background: #e7e7e7;
+    position: relative;
+    text-align: center;
+    margin-bottom: 1px;
+    overflow: hidden;
+}
+.model_one{
+    padding-bottom: 15px;
+}
+
+.model_one>img{
+    width: 695px;
+    position: relative;
+    top:-80px;
+}
+.model_one .model_data{
+    position: relative;
+    top:-170px;
+}
+
+.model_data .names{
+    font-size: 12px;
+    color:#818181;
+}
+.model_data .names_discribe{
+    font-size: 34px;
+    color:#313131;
+}
+.model_data .fangkuai{
+    margin: 5px 0 16px 0;
+}
+.model_data .fangkuai i{
+    width: 10px;
+    height: 10px;
+    background-position: -221px 0;
+}
+.buy_click{
+    display: inline-block;
+    width: 151px;
+    height: 40px;
+    background: #1b1b1b;
+    color: #ded8d3;
+    font-size: 12px;
+    line-height: 39px;
+    cursor: pointer;
+}
+.buy_click:hover{
+    background-color: #313131;
+}
+.tiezhi{
+    padding: 40px 25px 15px 25px;
+    width: 130px;
+    height: 255px;
+    position: absolute;
+    background: #f5f5f5;
+    top: 0;
+    z-index: 200;
+}
+.tiezhi.bag{
+    top:13%;
+    right: 18%;
+}
+.tiezhi img{
+    width: 80px;
+}
+.tiezhi .tiezhi_title{
+    font-size: 20px;
+    color: #4b4b4b;
+    margin: 10px 0 15px 0;
+}
+.tiezhi .tiezhi_main{
+    font-size: 12px;
+    color: #b2b2b2;
+    font-style: oblique;
+    line-height: 20px;
+    margin-bottom:15px;
+}
+.tiezhi .tiezhi_more{
+    font-size: 13px;
+    color:#323232
+}
+
+.model_two{
+    height: 2573px;
+}
+.tiezhi.hat{
+    top:160px;
+    right: 18%;
+}
+.tiezhi.glasses{
+    top:1045px;
+    left:17%;
+}
+.tiezhi.jacket{
+    top:1864px;
+    right: 18%;
+}
+.model_two>img{
+    width: 457px;
+    position: absolute;
+    left: 50%;
+    margin-left:-228px
+}
+
+.model_two .model_data{
+    position: absolute;
+    bottom:0;
+    padding-bottom: 100px;
+    left:50%;
+    transform: translate(-50%);
+}
+.model_three_adver{
+    width: 100%;
+    max-height: 672px;
+    overflow: hidden;
+    position: relative;
+    z-index: 100;
+}
+.model_three_adver>img {
+    width: 100%;
+}
+.model_three_adver .adver_main{
+    width: 160px;
+    height: 359px;
+    box-sizing: border-box;
+    padding: 0 25px;
+    position: absolute;
+    left: 50%;
+    margin-left:-80px;
+    top: 28%;
+    background: #f5f5f5;
+}
+.adver_main h3{
+padding: 37px 0 23px 0;
+font-size: 24px;
+color: #4B4B4B;
+line-height: 24px;
+font-style: normal;
+font-weight: 200;
+}
+.adver_main p{
+font-weight: 400;
+color: #666;
+font-size: 12px;
+font-style: italic;
+line-height: 20px;
+    min-height: 80px;
+    padding-bottom: 21px;
+}
+.adver_main span{
+    display: inline-block;
+    font-size: 13px;
+    color:#1b1b1b;
+}
+.model_three>img{
+    position: relative;
+    top:-80px;
+}
+.model_three .model_data{
+    position: relative;
+    top:-170px
+}
+.tiezhi.heels{
+    top:800px;
+    right: 18%;
+}
+.model_four{
+    padding-bottom: 60px;
+}
+.model_four .model_data{
+    padding-top:63px;
+    margin-bottom: 50px;
+}
+.model_four .model_data .names_discribe{
+    line-height: 36px;
+    padding-bottom: 50px;
+}
+.model_four .model_data .fangkuai{
+    height: 1px;
+    width: 144px;
+    margin: 0 auto;
+    background: #999;
+}
+.model_four_inner{
+    width: 1170px;
+    padding-left: 30px;
+    margin: 0 auto;
+}
+.model_four_inner img{
+    width: 340px;
+}
+.model_four_inner>ul{
+    width: 1260px;
+}
+.model_four_inner>ul li{
+    width: 340px;
+    height: 740px;
+    margin-right: 60px;
+}
+.li_top{
+    margin-bottom:60px;
+}
+.li_son{
+    height: 340px;
+}
+.li_son.long{
+    height: 740px;
+}
+.li_son_text{
+    line-height: 12px;
+    color:#4e4e4e;
+}
+.li_son_text p{
+    margin:46px 0 12px 0;
+    font-size: 20px;
+    line-height: 20px;
+    color:#000;
+}
+.li_son_text span{
+    cursor: pointer;
+}
+.li_son_text span:hover{
+    color:#999;
+}
+

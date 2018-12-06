@@ -1,0 +1,365 @@
+i{
+    background: url("../img/icon.png") no-repeat;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/*=================头部开始=================*/
+header{
+    width: 100%;
+    background: #1b1b1b;
+}
+.nav-logo{
+    width: 100%;
+    padding: 26px 0 16px 0;
+    height: 27px;
+    position: relative;
+    text-align: center;
+}
+.nav-logo img{
+    margin:0 auto;
+    width: 160px;
+}
+/*=================导航栏开始=================*/
+.nav-menu li a{
+    color: #E5DFD9;
+    line-height: 12px;
+    font-size: 12px;
+}
+.nav-menu .language{
+    position: absolute;
+    left:3px;
+    top:27px
+}
+.nav-menu .language li a {
+    padding: 0 10px
+}
+.nav-menu .language li a:hover{
+    color:white;
+    text-shadow: 0 0 1px white;
+}
+.nav-menu .language li:nth-of-type(1) > a {
+    padding: 0 10px 0 25px;
+}
+
+.splice{
+    position: absolute;
+    top:18px;
+    right:21px;
+    z-index: 100;
+}
+.splice ul li{
+    padding: 7px 10px 20px 11px;
+    margin-right: 1px;
+    position: relative;
+}
+.splice ul li a:hover{
+    color:white;
+    text-shadow: 0 0 1px white;
+}
+.splice ul li>div{
+    position: absolute;
+    display: none;
+    width: 243px;
+    height: 94px;
+    background: white;
+    top:50px;
+    line-height: 46px;
+    color: #9fa19f;
+    font-size: 12px;
+    text-align: center;
+}
+.splice ul li div .sanjiao1{
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border:6px solid transparent;
+    border-bottom-color: #fff;
+    top: -12px;
+    left: 50%;
+}
+.splice ul li:nth-of-type(1) div .sanjiao1{
+    margin-left: -68px;
+}
+.splice ul li:nth-of-type(2) div .sanjiao1{
+    margin-left: 99px;
+}
+.splice ul li:nth-of-type(3) div .sanjiao1{
+    margin-left: 85px;
+}
+.splice ul li:nth-of-type(1)>div{
+    padding:20px 0 0 20px;
+    width: 288px;
+    height: 228px;
+    left:-70px;
+    border:1px solid #bdbcbc;
+    text-align: left;
+}
+.splice ul li:nth-of-type(2) div {
+    left: -210px;
+}
+.splice ul li:nth-of-type(3) div {
+    left: -170px;
+    z-index: 200;
+}
+.splice ul li div p{
+    color: #313131;
+    font-size: 14px;
+    border-bottom: 1px solid #e7e7e7;
+}
+.splice .denglu-box h3{
+    line-height:12px;
+    font-size: 12px;
+    font-weight: normal;
+    color:#313131;
+    margin-bottom:12px;
+}
+.splice .denglu-box ul{
+    padding-left: 14px;
+    margin-bottom:14px;
+}
+.splice .denglu-box ul li{
+    float: none;
+    line-height: 25px;
+    padding: 0;
+    list-style: disc;
+}
+.splice .denglu-box-bottom{
+    text-align: center;
+    line-height: 36px;
+}
+.splice .denglu-box-bottom div{
+    width: 266px;
+    height: 36px;
+    border:2px solid black;
+}
+.splice .denglu-box-bottom div:first-of-type{
+    background: black;
+    margin-bottom:15px;
+    color:#dfd6d3;
+}
+.splice .denglu-box-bottom div:last-of-type{
+    color:#313131;
+}
+.splice .hopelist{
+    width: 14px;
+    height: 12px;
+    background-position: -337px -84px;
+}
+.splice>ul>li:nth-of-type(2):hover .hopelist{
+    background-position: -373px -84px;
+}
+.splice>ul>li:nth-of-type(3):hover .shopbag{
+    background-position: -261px -130px;
+}
+.splice .shopbag{
+    width: 12px;
+    height: 12px;
+    background-position: -221px -130px;
+    margin-right: 5px;
+    position: relative;
+    top: -1px;
+}
+.splice .search{
+    position: relative;
+    top:7px;
+    width: 80px;
+}
+.splice .search-inner{
+    position: absolute;
+    line-height: 16px;
+    padding-left: 5px;
+    top:-3px;
+    right:25px;
+    transition: .5s;
+}
+.splice .search-inner input{
+    height: 16px;
+    background: none;
+    width:40px;
+    font-size: 12px;
+    display: block;
+    padding: 7px 0;
+    color: #313131;
+    transition: .5s;
+}
+.splice .search-inner input::-webkit-input-placeholder{
+    color: #E5DFD9;
+}
+.splice .search-inner input.active::-webkit-input-placeholder{
+    color: #313131;
+}
+
+.splice .search-inner i{
+    display: block;
+    position: absolute;
+    right: -20px;
+    width: 30px;
+    height: 30px;
+    background-position: -407px -75px;
+    background-color: #1b1b1b;
+    transition: .5s;
+}
+.nav-menu .nav-pills ul{
+    text-align: center;
+    position: relative;
+    word-break: normal;
+    word-wrap: break-word;
+    padding-top: 0;
+}
+.nav-menu .nav-pills>ul>li{
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.nav-menu .nav-pills ul li a{
+    display: block;
+    height: 51px;
+    line-height: 30px;
+    padding: 0 15px;
+    position: relative;
+}
+.nav-menu .nav-pills ul li a .sanjiao{
+    width: 0;
+    height: 0;
+    border:5px solid transparent;
+    border-bottom-color: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -5px;
+    bottom: 12px;
+    opacity: 0;
+    transition: .2s;
+}
+.nav-menu .nav-pills ul li a:hover{
+    color:white;
+    text-shadow: 0px 0px 1px white;
+}
+.nav-menu .nav-pills ul li a.active .sanjiao{
+    opacity: 1;
+}
+.nav-menu .nav-pills ul li .splice-sub-menu{
+    position: absolute;
+    padding-top: 15px;
+    left: 2%;
+    top: 71px;
+    width:96%;
+    display: none;
+    text-align: center;
+    z-index: 100;
+    background: white;
+    opacity: 0;
+    /*transition: .4s;*/
+}
+
+.nav-menu .nav-pills ul li .splice-sub-menus{
+    display: inline-block;
+    vertical-align: top;
+}
+.splice-sub-menus>ul{
+    width: 160px;
+    padding-left: 20px;
+}
+.splice-sub-menus>ul:last-of-type{
+    border-left: 1px solid #e7e7e7;
+}
+.splice-sub-menus>ul>li{
+    float: none;
+    color: #72716f;
+    line-height: 32px;
+    font-size: 12px;
+    text-align: left;
+}
+.splice-sub-menus>ul>li:first-of-type{
+    font-weight: bold;
+    line-height: 12px;
+    color: #313131;
+    margin-bottom:20px;
+}
+.splice-sub-menus .nav-lunbo{
+    padding: 42px 10px 0 20px;
+}
+.splice-sub-menus .nav-lunbo ul{
+    width: 165px;
+    height: 230px;
+}
+.splice-sub-menus .nav-lunbo ul li{
+    display: none;
+    float: none;
+    width: 165px;
+    height: 230px;
+    position: absolute;
+}
+.splice-sub-menus .nav-lunbo ul li:first-of-type{
+    display: block;
+}
+.splice-sub-menus .nav-lunbo ul li img{
+    width: 165px;
+}
+.splice-sub-menus .nav-lunbo .point{
+    text-align:center;
+    margin-top: 10px;
+}
+.splice-sub-menus .nav-lunbo .point span{
+    display: inline-block;
+    vertical-align: top;
+    width: 5px;
+    height: 5px;
+    border: 1px solid #9e9e9e;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.splice-sub-menus .nav-lunbo .point span.active{
+    background: #000;
+}
+
+.banner{
+    background: url("../img/15410452007897468_content_HomepageHeroHeaderStandard_3200x1280_1531832408_HomepageHeroHeaderStandard_S83-FS-CAMPAIGN-02_001_Default.jpg")no-repeat center top fixed;
+    width: 100%;
+    max-width: 3800px;
+    position: relative;
+    margin: 0 auto;
+    background-size: cover;
+    height:624px;
+}
+.banner-inner{
+    position: absolute;
+    width: 310px;
+    height: 150px;
+    left: 50%;
+    top: 50%;
+    margin: -75px 0 0 -165px;
+    color:#c5bab5;
+    text-align: center;
+}
+.banner-inner p{
+    line-height: 110px;
+    font-size: 52px;
+    color:#fff;
+    letter-spacing: 8px;
+}
+.banner-inner span{
+    display: inline-block;
+    width: 145px;
+    height: 40px;
+    line-height: 39px;
+    background: #1b1b1b;
+    font-size: 12px;
+    cursor: pointer;
+}
+.banner-inner span:hover{
+    background:#002446;
+}
+.banner-inner span:first-of-type{
+    margin-right: 5px;
+    margin-left: -3px;
+}
+.banner>img{
+    position: absolute;
+    width: 50px;
+    bottom:-25px;
+    left: 50%;
+    margin-left: -25px;
+    z-index: 999;
+}

@@ -1,0 +1,84 @@
+2018-11-08 17:30:01
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>多维数组</title>
+    <style>
+        .box{
+            width: 500px;
+            margin: 100px auto;
+        }
+        #s1{
+            height: 40px;
+            width: 200px;
+        }
+        #s2{
+            height: 40px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <form>
+        <select id="s1">
+            <option >请选择城市</option>
+            <option value="0">北京</option>
+            <option value="1">上海</option>
+            <option value="2">广州</option>
+        </select>
+        <select id="s2">
+            <option>请选择区</option>
+            <option value="0">上海1</option>
+            <option value="1">上海2</option>
+            <option value="2">上海3</option>
+            <option value="3">上海4</option>
+            <option value="0">北京1</option>
+            <option value="1">北京2</option>
+            <option value="2">北京3</option>
+            <option value="3">北京4</option>
+        </select>
+    </form>
+</div>
+
+<script>
+    /*   var arr=[[1,2,3],[4,5,6],[7,8,9]]
+     for (var i = 0; i < arr.length; i++) {
+     for (var j = 0; j< arr[i].length;j++) {
+     console.log(arr[i][j]);
+     }
+     }*/
+
+    var arr=[
+        ["北京1","北京2","北京3","北京4"],
+        ["上海1","上海2","上海3","上海4"],
+        ["广州1","广州2","广州3","广州4"]
+    ];
+    var oS1=document.getElementById('s1');
+    var oS2=document.getElementById('s2');
+    oS1.onchange=function(){
+        //获取索引值
+        console.log(s1.value);
+//        每次点击清除为0
+        oS2.options.length=0;
+        for (var i = 0; i < arr[oS1.value].length; i++) {
+            oS2.add(new Option(arr[oS1.value][i]))
+        }
+    }
+    /*var arr1=[[[1,2],[3,4]],[[5,6],[7,8]],[[0,9],[9,0]]]
+     for (var i = 0; i < arr1.length; i++) {
+     for (var j = 0; j <  arr1[i].length; j++) {
+     for (var m = 0; m < arr1[i][j].length; m++) {
+     console.log(arr1[i][j][m]);
+     }
+     }
+     }
+     */
+
+
+
+</script>
+</body>
+</html>

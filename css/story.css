@@ -1,0 +1,65 @@
+article{
+    position: relative;
+    overflow: hidden;
+    max-width: 1612px;
+    margin: 0 auto;
+}
+article h1{
+    font-family: "FuturaLT-Light", "NotoSansCJKsc-Light", "NotoSansCJKsc-Normal", "PingFangSC-Regular", "Hiragino Sans GB", "\5FAE\8F6F\96C5\9ED1", "Microsoft YaHei", sans-serif;
+    font-size: 30px;
+    color: #313131;
+    text-align: center;
+    letter-spacing: 3px;
+    width: 100%;
+    padding: 45px 0 20px;
+    font-weight: normal;
+    margin-bottom:50px
+}
+article section .lis{
+    float: left;
+    width: 20%;
+    max-width: 100%;
+    cursor: pointer;
+    padding: 0 12px 20px;
+    box-sizing: border-box;
+}
+article section .lis>ul{
+    width: 100%;
+}
+article section .lis>ul>li{
+    float: none;
+    width: 100%;
+    margin-bottom: 30px;
+}
+article section .lis>ul>li img{
+    width: 100%;
+}
+.li_text h2{
+    color: #1B1B1B;
+    position: relative;
+    font-family: "FuturaLT-Book", "NotoSansCJKsc-DemiLight", "NotoSansCJKsc-Normal", "PingFangSC-Regular", "Hiragino Sans GB", "\5FAE\8F6F\96C5\9ED1", "Microsoft YaHei", sans-serif;
+    font-size: 12px;
+    letter-spacing: 2.4px;
+    margin-top: 15px;
+    padding-bottom: 3px;
+    font-weight: normal;
+}
+.li_text h2:after{
+    content: '';
+    width: 27px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 3px;
+    height: 1px;
+    background: #999;
+}
+.li_text_main{
+    font-family: "FuturaLT-Light", "NotoSansCJKsc-Light", "NotoSansCJKsc-Normal", "PingFangSC-Regular", "Hiragino Sans GB", "\5FAE\8F6F\96C5\9ED1", "Microsoft YaHei", sans-serif;
+    font-size: 20px;
+    color: #4B4B4B;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}

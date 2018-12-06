@@ -1,0 +1,737 @@
+{
+  "data_one": [{
+    "sid": 1,
+    "img": "img/img_story/152842078426099_content_DiaryPrimaryImg_Standard_288x216_1527769810_DiaryPrimaryImg_Cruise19-Details_001_Default.jpg",
+    "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+    "date": "人物&活动",
+    "imgs": [
+      "img/img_story/",
+      "img/img_story/"
+    ]
+  },
+    {
+      "sid": 2,
+      "img": "img/img_story/153234595617791_content_DiaryPrimaryImg_Standard_288x216_1530792905_DiaryPrimaryImg_Frieze-AcidHouse-DOC_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 3,
+      "img": "img/img_story/1517486107953289_content_DiaryPrimaryImg_Standard_288x216_1516877110_DiaryPrimaryImg_CNY-Campaign_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 4,
+      "img": "img/img_story/1526638829886542_content_DiaryPrimaryImg_Standard_288x216_1525675507_DiaryPrimaryImg_Gucci-Wooster-opening-NY_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 5,
+      "img": "img/img_story/1536663156336632_content_DiaryPrimaryImg_Standard_288x216_1536136207_DiaryPrimaryImg_Vogue-UK-Sept_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 6,
+      "img": "img/img_story/152842078426099_content_DiaryPrimaryImg_Standard_288x216_1527769810_DiaryPrimaryImg_Cruise19-Details_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 7,
+      "img": "img/img_story/153234595617791_content_DiaryPrimaryImg_Standard_288x216_1530792905_DiaryPrimaryImg_Frieze-AcidHouse-DOC_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 8,
+      "img": "img/img_story/1517486107953289_content_DiaryPrimaryImg_Standard_288x216_1516877110_DiaryPrimaryImg_CNY-Campaign_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 9,
+      "img": "img/img_story/1526638829886542_content_DiaryPrimaryImg_Standard_288x216_1525675507_DiaryPrimaryImg_Gucci-Wooster-opening-NY_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 10,
+      "img": "img/img_story/1536663156336632_content_DiaryPrimaryImg_Standard_288x216_1536136207_DiaryPrimaryImg_Vogue-UK-Sept_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 11,
+      "img": "img/img_story/152842078426099_content_DiaryPrimaryImg_Standard_288x216_1527769810_DiaryPrimaryImg_Cruise19-Details_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 12,
+      "img": "img/img_story/153234595617791_content_DiaryPrimaryImg_Standard_288x216_1530792905_DiaryPrimaryImg_Frieze-AcidHouse-DOC_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 13,
+      "img": "img/img_story/1517486107953289_content_DiaryPrimaryImg_Standard_288x216_1516877110_DiaryPrimaryImg_CNY-Campaign_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 14,
+      "img": "img/img_story/1526638829886542_content_DiaryPrimaryImg_Standard_288x216_1525675507_DiaryPrimaryImg_Gucci-Wooster-opening-NY_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    }
+  ],
+  "data_two": [{
+    "sid": 16,
+    "img": "img/img_story/15190524434357050_content_DiaryPrimaryImg_Standard_288x216_1517907605_DiaryPrimaryImg_SS18-ignasi_001_Default.jpg",
+    "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+    "date": "彩妆",
+    "imgs": [
+      "img/img_story/",
+      "img/img_story/"
+    ]
+  },
+    {
+      "sid": 17,
+      "img": "img/img_story/15192316574391522_content_DiaryPrimaryImg_Standard_288x216_1519220592_DiaryPrimaryImg_FS-S83-location_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 18,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 19,
+      "img": "img/img_story/15193768871374371_content_DiaryPrimaryImg_Standard_288x216_1519291825_DiaryPrimaryImg_FS-S83-lineup_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 20,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 21,
+      "img": "img/img_story/15190524434357050_content_DiaryPrimaryImg_Standard_288x216_1517907605_DiaryPrimaryImg_SS18-ignasi_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 22,
+      "img": "img/img_story/15192316574391522_content_DiaryPrimaryImg_Standard_288x216_1519220592_DiaryPrimaryImg_FS-S83-location_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 23,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 24,
+      "img": "img/img_story/15193768871374371_content_DiaryPrimaryImg_Standard_288x216_1519291825_DiaryPrimaryImg_FS-S83-lineup_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 25,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 26,
+      "img": "img/img_story/15190524434357050_content_DiaryPrimaryImg_Standard_288x216_1517907605_DiaryPrimaryImg_SS18-ignasi_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 27,
+      "img": "img/img_story/15192316574391522_content_DiaryPrimaryImg_Standard_288x216_1519220592_DiaryPrimaryImg_FS-S83-location_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 28,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 29,
+      "img": "img/img_story/15193768871374371_content_DiaryPrimaryImg_Standard_288x216_1519291825_DiaryPrimaryImg_FS-S83-lineup_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 30,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    }
+  ],
+  "data_three": [{
+    "sid": 31,
+    "img": "img/img_story/152842078426099_content_DiaryPrimaryImg_Standard_288x216_1527769810_DiaryPrimaryImg_Cruise19-Details_001_Default.jpg",
+    "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+    "date": "彩妆",
+    "imgs": [
+      "img/img_story/",
+      "img/img_story/"
+    ]
+  },
+    {
+      "sid": 32,
+      "img": "img/img_story/15241323857557697_content_DiaryPrimaryImg_Standard_288x216_1521202507_DiaryPrimaryImg_Gq-Performers_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 33,
+      "img": "img/img_story/1517486107953289_content_DiaryPrimaryImg_Standard_288x216_1516877110_DiaryPrimaryImg_CNY-Campaign_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 34,
+      "img": "img/img_story/15323456978693232_content_DiaryPrimaryImg_Standard_288x216_1531328410_DiaryPrimaryImg_MartinParr-US-story_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 35,
+      "img": "img/img_story/1536663156336632_content_DiaryPrimaryImg_Standard_288x216_1536136207_DiaryPrimaryImg_Vogue-UK-Sept_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 36,
+      "img": "img/img_story/152842078426099_content_DiaryPrimaryImg_Standard_288x216_1527769810_DiaryPrimaryImg_Cruise19-Details_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 37,
+      "img": "img/img_story/15241323857557697_content_DiaryPrimaryImg_Standard_288x216_1521202507_DiaryPrimaryImg_Gq-Performers_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 38,
+      "img": "img/img_story/1517486107953289_content_DiaryPrimaryImg_Standard_288x216_1516877110_DiaryPrimaryImg_CNY-Campaign_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 39,
+      "img": "img/img_story/15323456978693232_content_DiaryPrimaryImg_Standard_288x216_1531328410_DiaryPrimaryImg_MartinParr-US-story_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 40,
+      "img": "img/img_story/1536663156336632_content_DiaryPrimaryImg_Standard_288x216_1536136207_DiaryPrimaryImg_Vogue-UK-Sept_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 41,
+      "img": "img/img_story/152842078426099_content_DiaryPrimaryImg_Standard_288x216_1527769810_DiaryPrimaryImg_Cruise19-Details_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 42,
+      "img": "img/img_story/15241323857557697_content_DiaryPrimaryImg_Standard_288x216_1521202507_DiaryPrimaryImg_Gq-Performers_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 43,
+      "img": "img/img_story/1517486107953289_content_DiaryPrimaryImg_Standard_288x216_1516877110_DiaryPrimaryImg_CNY-Campaign_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 44,
+      "img": "img/img_story/15323456978693232_content_DiaryPrimaryImg_Standard_288x216_1531328410_DiaryPrimaryImg_MartinParr-US-story_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    }
+  ],
+  "data_four": [{
+    "sid": 46,
+    "img": "img/img_story/15371541922321712_content_DiaryPrimaryImgGif_Standard_576x432_1531473308_DiaryPrimaryImgGif_DapperDan-Collection_001_Default.gif",
+    "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+    "date": "彩妆",
+    "imgs": [
+      "img/img_story/",
+      "img/img_story/"
+    ]
+  },
+    {
+      "sid": 47,
+      "img": "img/img_story/15375398241409783_content_DiaryPrimaryImg_Standard_288x216_1537526704_DiaryPrimaryImg_S91-FS-Location_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 48,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 49,
+      "img": "img/img_story/15381219010691841_content_DiaryPrimaryImg_Standard_288x216_1525450508_DiaryPrimaryImg_Frieze_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 50,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 51,
+      "img": "img/img_story/15371541922321712_content_DiaryPrimaryImgGif_Standard_576x432_1531473308_DiaryPrimaryImgGif_DapperDan-Collection_001_Default.gif",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 52,
+      "img": "img/img_story/15375398241409783_content_DiaryPrimaryImg_Standard_288x216_1537526704_DiaryPrimaryImg_S91-FS-Location_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 53,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 54,
+      "img": "img/img_story/15381219010691841_content_DiaryPrimaryImg_Standard_288x216_1525450508_DiaryPrimaryImg_Frieze_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 55,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 56,
+      "img": "img/img_story/15371541922321712_content_DiaryPrimaryImgGif_Standard_576x432_1531473308_DiaryPrimaryImgGif_DapperDan-Collection_001_Default.gif",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 57,
+      "img": "img/img_story/15375398241409783_content_DiaryPrimaryImg_Standard_288x216_1537526704_DiaryPrimaryImg_S91-FS-Location_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 58,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid":59,
+      "img": "img/img_story/15381219010691841_content_DiaryPrimaryImg_Standard_288x216_1525450508_DiaryPrimaryImg_Frieze_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 60,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    }
+  ],
+  "data_five": [{
+    "sid": 61,
+    "img": "img/img_story/15371541922321712_content_DiaryPrimaryImgGif_Standard_576x432_1531473308_DiaryPrimaryImgGif_DapperDan-Collection_001_Default.gif",
+    "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+    "date": "灵感&设计元素",
+    "imgs": [
+      "img/img_story/",
+      "img/img_story/"
+    ]
+  },
+    {
+      "sid": 62,
+      "img": "img/img_story/15375398241409783_content_DiaryPrimaryImg_Standard_288x216_1537526704_DiaryPrimaryImg_S91-FS-Location_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 63,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 64,
+      "img": "img/img_story/15381219010691841_content_DiaryPrimaryImg_Standard_288x216_1525450508_DiaryPrimaryImg_Frieze_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 65,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 66,
+      "img": "img/img_story/15371541922321712_content_DiaryPrimaryImgGif_Standard_576x432_1531473308_DiaryPrimaryImgGif_DapperDan-Collection_001_Default.gif",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 67,
+      "img": "img/img_story/15375398241409783_content_DiaryPrimaryImg_Standard_288x216_1537526704_DiaryPrimaryImg_S91-FS-Location_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 68,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 69,
+      "img": "img/img_story/15381219010691841_content_DiaryPrimaryImg_Standard_288x216_1525450508_DiaryPrimaryImg_Frieze_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 70,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "携手《Purple》杂志主编Olivier Zahm共同推出由Martin Parr掌镜拍摄的《Le Palace》杂志特刊，以亚力山卓·米开理（Alessandro Michele）倾力打造的古驰2019 春夏系列时装秀为主题。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 71,
+      "img": "img/img_story/15371541922321712_content_DiaryPrimaryImgGif_Standard_576x432_1531473308_DiaryPrimaryImgGif_DapperDan-Collection_001_Default.gif",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 72,
+      "img": "img/img_story/15375398241409783_content_DiaryPrimaryImg_Standard_288x216_1537526704_DiaryPrimaryImg_S91-FS-Location_001_Default.jpg",
+      "main": "Gucci Gothic:2019早春系列广告形象大片以超现实神话世界为背景，并以朋克风格造型的年轻农人为主角。",
+      "date": "彩妆",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 73,
+      "img": "img/img_story/15193520173724491_content_DiaryPrimaryImg_Standard_288x216_1519305304_DiaryPrimaryImg_FS-S83-Guests_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "灵感&设计元素",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 74,
+      "img": "img/img_story/15381219010691841_content_DiaryPrimaryImg_Standard_288x216_1525450508_DiaryPrimaryImg_Frieze_001_Default.jpg",
+      "main": "英国摄影师Martin Parr以其带有讽刺意味的摄影风格拍摄全新腕表系列图册。(由Kyle Chayka撰文)",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    },
+    {
+      "sid": 75,
+      "img": "img/img_story/15198063647968198_content_DiaryPrimaryImg_Standard_288x216_1519233351_DiaryPrimaryImg_FS-S83-Details_001_Default.jpg",
+      "main": "众多嘉宾身穿Gucci服饰亮相洛杉矶艺术博物馆（LACMA）2018年艺术与电影盛典",
+      "date": "人物&活动",
+      "imgs": [
+        "img/img_story/",
+        "img/img_story/"
+      ]
+    }
+  ]
+}

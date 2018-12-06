@@ -1,0 +1,15 @@
+{
+  "name": "gucci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bin_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iscroll": "^5.2.0"
+  }
+}

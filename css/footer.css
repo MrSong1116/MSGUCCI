@@ -1,0 +1,242 @@
+footer{
+    background:#1B1B1B;
+    padding: 48px 0 21px;
+}
+.inner{
+    margin: 0 auto;
+    width: 1215px;
+    text-align: center;
+}
+.footer_left{
+    width: 66%;
+    position: relative;
+    display: inline-block;
+}
+.footer_left>ul{
+    /*padding-left: 23px;*/
+    text-align: left;
+}
+.footer_left>ul>li{
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    text-align: left;
+    width: 24%;
+}
+.footer_left>ul>li:last-of-type{
+    position: relative;
+    top:-75px;
+}
+.footer_left>ul>li p{
+    font-size: 12px;
+    line-height: 15px;
+    color: #E5DFD9;
+    opacity: .5;
+    letter-spacing: 0;
+    margin-bottom: 28px;
+}
+.footer_left>ul>li a{
+    display: block;
+    margin-bottom: 13.4px;
+    color: #e5dfd9;
+    letter-spacing: 0;
+    font-size: 11px;
+    line-height: 14px;
+}
+.footer_left>ul>li a:hover{
+    color:white;
+}
+.footer_left>ul>li i{
+    width: 17px;
+    height: 13px;
+    margin-right: 7px;
+}
+.fsend{
+    background-position: 0 -370px;
+}
+.footer_left a:hover>.fsend{
+    background-position: 0 -516px;
+}
+
+.fbag{
+    background-position: -23px -371px;
+}
+.footer_left a:hover>.fbag{
+    background-position:-23px -518px;
+}
+
+.fwechat{
+    background-position: -45px -372px;
+}
+.footer_left a:hover>.fwechat{
+    background-position: -44px -518px;
+}
+
+.fsina{
+    background-position: -69px -372px;
+}
+
+.footer_left a:hover>.fsina{
+    background-position: -68px -518px;
+}
+
+.fyouku{
+    background-position: -93px -371px;
+}
+.footer_left a:hover>.fyouku{
+    background-position: -93px -517px;
+}
+
+.fmessage{
+    background-position: -117px -372px;
+}
+.footer_left a:hover>.fmessage{
+    background-position: -116px -518px;
+}
+
+.fcall{
+    background-position: -136px -372px;
+}
+.footer_left a:hover>.fcall{
+    background-position: -136px -518px;
+}
+.footer_left_bottom{
+    color: #E5DFD9;
+    font-size: 12px;
+    position: absolute;
+    bottom: 30px;
+    line-height: 12px;
+}
+.police{
+    width: 14px;
+    height: 12px;
+    background-position: -663px -40px;
+}
+.footer_left_bottom a{
+    color: #E5DFD9;
+}
+.footer_left_bottom span{
+    margin-right: 65px;
+}
+.footer_left_bottom a:first-of-type{
+    margin-right: 60px;
+}
+
+
+.footer_right{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
+.p_tit{
+    color: #E5DFD9;
+    opacity: .5;
+    font-size: 12px;
+    line-height: 12px;
+    margin-bottom: 15px;
+}
+.p_tit a{
+    color: #E5DFD9;
+}
+.p_main{
+    color: #E5DFD9;
+    font-size: 11px;
+    margin-bottom:23px
+}
+.p_main a{
+    text-decoration-line: underline;
+    color: #E5DFD9;
+}
+.email_address{
+
+}
+.email_address form{
+    padding-left: 20px;
+    float: left;
+    background: #000;
+    /*width: 210px;*/
+}
+.email_address input:first-of-type{
+    width: 180px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+    float: left;
+    background: #000;
+}
+.email_address input:last-of-type{
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    line-height: 28px;
+    font-weight: bold;
+    float: left;
+    cursor: pointer;
+    color: #e5dfc4;
+    background: #000;
+}
+.selects p{
+    display: inline-block;
+    width: 135px;
+    height: 28px;
+    line-height: 28px;
+    background: #000;
+    vertical-align: top;
+    margin-right: 10px;
+    color: #E5DFD9;
+    font-size: 12px;
+    position: relative;
+    cursor: pointer;
+}
+.selects p>span:first-of-type{
+    width: 120px;
+    padding-left:15px;
+    display: block;
+}
+.selects p i{
+    position: absolute;
+    right: 5px;
+    top:0;
+    width: 8px;
+    height: 28px;
+    background-position: -66px -399px;
+    background-color: transparent;
+}
+.p_tit.zhiying{
+    margin-top: 40px;
+}
+.p_tit.else{
+    margin-top: 20px;
+    margin-bottom:30px;
+}
+.bottom_logo i{
+    width: 64px;
+    height: 30px;
+}
+.img_1{
+    margin-right: 36px;
+}
+.GUCCI{
+    background-position: -194px -518px;
+}
+.GUCCI2{
+    background-position: -334px -518px;
+}
+
+.selects .layer{
+    position: absolute;
+    top:28px;
+    left: 0;
+    background: white;
+    z-index: 100;
+    display: none;
+}
+.selects .layer strong{
+    font-weight: normal;
+    width: 120px;
+    padding-left: 15px;
+    display: block;
+    color: #313131;
+    border-bottom: 1px solid #1b1b1b;
+}

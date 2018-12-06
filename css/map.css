@@ -1,0 +1,175 @@
+article{
+    /*width: 100%;*/
+    padding: 15px 450px 15px 15px;
+}
+section{
+    width: 100%;
+    height: 620px;
+    float: left;
+}
+aside{
+    float: left;
+    margin-left: -450px;
+    position: relative;
+    right: -450px;
+    width: 450px;
+    background: #e7e7e7;
+}
+aside>div{
+    padding: 27px;
+    font-size: 12px;
+}
+aside .searchmall p{
+    line-height: 12px;
+    font-weight: bold;
+    color:#727272;
+    margin-bottom:5px;
+}
+aside .searchmall>.select{
+    margin-bottom: 23px;
+}
+aside .searchmall>.select>div{
+    position: relative;
+    width: 180px;
+    padding-left: 12px;
+    height: 33px;
+    line-height: 33px;
+    background: white;
+}
+aside .searchmall>.select .province{
+    margin-right: 11px;
+}
+aside .searchmall>.select>div>i{
+    position: absolute;
+    width: 7px;
+    height: 4px;
+    background-position: -35px -163px;
+    top:14px;
+    right: 9px;
+}
+aside .searchmall>a{
+    line-height: 15px;
+    color:#aeaeae;
+}
+aside .searchmall>a i{
+    width: 12px;
+    height: 13px;
+    background-position: -614px -83px;
+}
+aside .shaixuan{
+    background: #fff;
+    line-height: 56px;
+    padding: 0 27px;
+    color:#999999;
+}
+aside .shaixuan p>i{
+    width: 7px;
+    height: 4px;
+    background-position: -75px -86px;
+}
+aside .shop_son{
+background-color: #f5f5f5;
+    padding: 22px 18px 19px;
+    margin-bottom:20px
+}
+aside .shop_son:last-of-type{
+    margin-bottom:0;
+}
+aside .shop_son .shop_logo{
+    text-align: center;
+    margin-right: 12px;
+}
+aside .shop_son .shop_logo i{
+    width: 30px;
+    height: 30px;
+    background-position: -46px -322px;
+    margin-bottom:12px
+}
+aside .shop_son .shop_logo .logo_line{
+    background-color:#dcd8d6;
+    height: 1px;
+    width: 43px;
+}
+aside .shop_son .address_title{
+    color:#515151;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+aside .shop_son .address_main{
+    color:#959595;
+    font-size: 11px;
+    line-height: 16px;
+    width: 303px;
+}
+aside .shop_son .address_main span{
+    color:#bebebe;
+}
+aside .shop_son .shop_son_bottom{
+    border-top: 1px solid #dcd8d6;
+    margin-top: 15px;
+    padding-top: 13px;
+    color:#999999;
+    font-weight: bold;
+}
+aside .shop_son .shop_son_bottom i{
+    width: 11px;
+    height: 10px;
+    background-position: -578px 0;
+    vertical-align: 0;
+    margin-left: 10px;
+}
+aside .qijian h2{
+    font-size: 28px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 36px;
+}
+aside .qijian h2 span{
+    display: inline-block;
+    padding: 5px 20px 20px;
+    border-bottom:1px solid #999999;
+    color: #4b4b4b;
+}
+aside .qijian .qijian_screen{
+    width: 396px;
+    overflow: hidden;
+}
+aside .qijian .qijian_screen ul{
+    width: 1320px;
+    position: relative;
+}
+aside .qijian .qijian_screen ul li{
+    width: 396px;
+    height: 142px;
+    background: url("../img/dian_PC.jpg") no-repeat;
+    background-size: cover;
+    color:#fff;
+    padding-top: 83px;
+    text-align: center;
+}
+aside .qijian_point{
+    text-align: center;
+    margin-top: 13px;
+}
+aside .qijian_point a{
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border: 2px solid #999999;
+    border-radius: 4px;
+    margin: 0 5px;
+}
+aside .qijian_point a.active{
+    border-color: #1b1b1b;
+    background-color: #1b1b1b;
+}
+aside .qijian_tit{
+    font-size: 12px;
+    line-height:12px;
+    margin-bottom:15px;
+}
+aside .qijian_main{
+    font-size: 25px;
+    line-height: 25px;
+}
